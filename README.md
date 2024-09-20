@@ -5,6 +5,7 @@
 <p>- Resposive web design</p>
 <p>- User search function</p>
 <p>- State control with context API and custom hook</p>
+<p>- Shadcn UI for component stle</p>
 
 <h1>Tools</h1>
 
